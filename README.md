@@ -1,10 +1,21 @@
-# Todo React App
+<h1 align="center">Todo React App  📝</h1>  
+<p align="center">
+  🖊️ A simple Todo App built using <a href="https://reactjs.org/">React</a> and <a href="https://mantine.dev/">Mantine UI</a>
+</p>
 
-This is a simple todo app built with the React library.
+## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
-For the live demo, see (embed demo here).
-This project was bootstrapped with Create React App.
+You can download and serve the project, or you can view it here to demo:
 
+https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f-8c4e-b1ed9f290894.mp4
 
-https://user-images.githubusercontent.com/109053279/178184098-30abb08a-4406-413f-8ed6-a19578ceb0b6.mp4
+## 😃 Features:
 
+- ➕ Add todos
+- 🗑️ Delete todos
+- ⏸ Save todos to Local Storage when the state changes
+- ▶️ Load the todos from Local Storage when the site is loaded again
+
+<p align="center">
+  ❤️ Feel free to create issues and contributions for features or bugs to this project.
+</p>
