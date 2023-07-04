@@ -180,7 +180,7 @@ export default function App() {
 							})
 						) : (
 							<Text size={'lg'} mt={'md'} color={'dimmed'}>
-								You have no tasks
+								You have no text
 							</Text>
 						)}
 						<Button
